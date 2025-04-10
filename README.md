@@ -14,7 +14,6 @@ This project includes:
 - 🧮 **Data Visualization** with histograms of columns
 - 🗺️ **Scatter Plot** with user-selected x-axis and y-axis
 
----
 
 ## 📦 Installation
 
